@@ -1,0 +1,5 @@
+D:\SHIPOWNERS\InRule\GIT\InRule\InRule\obj\Debug\net5.0\InRule.csproj.AssemblyReference.cache
+D:\SHIPOWNERS\InRule\GIT\InRule\InRule\obj\Debug\net5.0\InRule.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHIPOWNERS\InRule\GIT\InRule\InRule\obj\Debug\net5.0\InRule.AssemblyInfoInputs.cache
+D:\SHIPOWNERS\InRule\GIT\InRule\InRule\obj\Debug\net5.0\InRule.AssemblyInfo.cs
+D:\SHIPOWNERS\InRule\GIT\InRule\InRule\obj\Debug\net5.0\InRule.csproj.CoreCompileInputs.cache
